@@ -1,4 +1,4 @@
-# Actividad: Keylogger Educativo en Python
+# Actividad: Keylogger en Python
 
 Este proyecto implementa un keylogger básico utilizando la librería `keyboard`. El propósito es demostrar cómo las aplicaciones pueden interceptar entradas de teclado en entornos de prueba controlados.
 
